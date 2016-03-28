@@ -1,0 +1,16 @@
+[
+{
+  "modid": "sem",
+  "name": "Skype Messages in Minecraft",
+  "description": "Displays Skype chat messages in ingame chat.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ScarabCoder"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
